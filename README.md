@@ -12,6 +12,7 @@
 
 _Welcome! :wave: This is the source repository for the GitHub for Managers. Be sure to follow the prerequisite(s) below before coming to the workshop to get started!_
 
+
 - :point_right: **GitHub Account.** If you don't already have an account with GitHub, sign up and create a new account at https://github.com/join before the workshop.
 - :point_right: **Heroku Account.** If you don't already have an account with Heroku, sign up and create a new account at https://signup.heroku.com/login before the workshop.
 - :point_right: **CircleCI Account.** If you don't already have an account with CircleCI, sign up and create a new account at https://circleci.com/ before the workshop.
